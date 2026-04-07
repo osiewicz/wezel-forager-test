@@ -1,0 +1,6 @@
+name = "line-count"
+description = "Count lines in README"
+
+[[steps]]
+name = "measure"
+cmd = "wc -l README.md"
