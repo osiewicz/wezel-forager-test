@@ -1,6 +1,7 @@
 name = "line-count"
-description = "Count lines in README"
+description = "LLVM IR line count for hello-wezel"
 
 [[steps]]
 name = "measure"
-cmd = "wc -l README.md"
+tool = "llvm-lines"
+package = "hello-wezel"
