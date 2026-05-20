@@ -1,1 +1,5 @@
-server_url = "http://localhost:3001"
+project_id = "e137cba4-2de4-4999-9466-76adb6133cb5"
+name = "wezel-forager-test"
+
+[tools.foragers.llvm-lines]
+github = "wezel-build/forager_llvm_lines"

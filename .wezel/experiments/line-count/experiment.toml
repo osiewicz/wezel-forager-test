@@ -1,7 +1,5 @@
-name = "line-count"
 description = "LLVM IR line count for hello-wezel"
 
-[[steps]]
-name = "measure"
-tool = "llvm-lines"
+[step.llvm-lines.measure]
 package = "hello-wezel"
+summary.total-llvm-lines = { outcome = "llvm-lines", filter = { summary_unit = "lines" } }
