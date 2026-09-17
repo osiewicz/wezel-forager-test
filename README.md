@@ -18,3 +18,7 @@ The fixture is intentionally dependency-free for fast, deterministic runs.
 Commit history is kept linear so regression attribution is easy to inspect.
 
 This project is test data rather than a production application.
+
+## Linear-history regression fixture
+
+The second attribution trial is applied to `main` with a fast-forward.
