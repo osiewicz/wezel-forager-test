@@ -28,3 +28,5 @@ Its commits remain individually reachable from the tracked branch.
 Wezel can therefore enqueue midpoint measurements during its hunt.
 
 Only one commit in the sequence changes the measured workload.
+
+Later commits deliberately leave the measurement unchanged.
