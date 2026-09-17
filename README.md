@@ -16,3 +16,5 @@ Results are uploaded to Wezel after the experiment completes.
 The fixture is intentionally dependency-free for fast, deterministic runs.
 
 Commit history is kept linear so regression attribution is easy to inspect.
+
+This project is test data rather than a production application.
