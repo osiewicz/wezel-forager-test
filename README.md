@@ -32,3 +32,5 @@ Only one commit in the sequence changes the measured workload.
 Later commits deliberately leave the measurement unchanged.
 
 That makes the expected culprit unambiguous.
+
+The trial exercises automatic dispatch rather than manual queueing.
