@@ -26,3 +26,5 @@ The second attribution trial is applied to `main` with a fast-forward.
 Its commits remain individually reachable from the tracked branch.
 
 Wezel can therefore enqueue midpoint measurements during its hunt.
+
+Only one commit in the sequence changes the measured workload.
