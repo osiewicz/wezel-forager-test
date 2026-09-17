@@ -10,3 +10,5 @@ The intentionally small program provides a stable baseline for comparison.
 Runs are assigned by Fiflok and executed by the repository workflow.
 
 The workflow checks out the exact commit assigned to each run.
+
+Results are uploaded to Wezel after the experiment completes.
