@@ -30,3 +30,5 @@ Wezel can therefore enqueue midpoint measurements during its hunt.
 Only one commit in the sequence changes the measured workload.
 
 Later commits deliberately leave the measurement unchanged.
+
+That makes the expected culprit unambiguous.
