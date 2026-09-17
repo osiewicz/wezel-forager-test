@@ -34,3 +34,5 @@ Later commits deliberately leave the measurement unchanged.
 That makes the expected culprit unambiguous.
 
 The trial exercises automatic dispatch rather than manual queueing.
+
+Its expected endpoint is a Discord culprit notification.
