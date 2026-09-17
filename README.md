@@ -22,3 +22,5 @@ This project is test data rather than a production application.
 ## Linear-history regression fixture
 
 The second attribution trial is applied to `main` with a fast-forward.
+
+Its commits remain individually reachable from the tracked branch.
