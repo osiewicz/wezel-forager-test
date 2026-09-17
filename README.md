@@ -24,3 +24,5 @@ This project is test data rather than a production application.
 The second attribution trial is applied to `main` with a fast-forward.
 
 Its commits remain individually reachable from the tracked branch.
+
+Wezel can therefore enqueue midpoint measurements during its hunt.
